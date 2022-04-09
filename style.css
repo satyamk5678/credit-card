@@ -1,0 +1,25 @@
+body {
+    margin-top: 200px;
+    margin-left: 400px;
+}
+
+.labelName {
+    font-size: 35px;
+   
+    margin-right: 10px;
+    
+    font-family:  monospace;
+}
+
+input[type=text] {
+     width: 8%;
+    padding: 10px ;
+    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 20px;
+
+}
+ 
